@@ -2,8 +2,6 @@
 
 I'm Alex, a software engineer, user experience designer, Marine Corps veteran, and passionate digital creative with measured experience in various technical fields with project management and leadership positions.
 
-I'm palpably passionate about solving complex problems with like-minded people. 🧠 I always advocate for best-in-class developer experiences that empower others to solve complex problems, faster. ⚙️
-
 When I'm not clacking away on an overpriced keyboard ⌨️, you can find me misting my plants 🌱, obsessing over what renovation to tackle next 🏡, or spending quality time with my wife and son. 👨‍👩‍👦
 
 <!--
